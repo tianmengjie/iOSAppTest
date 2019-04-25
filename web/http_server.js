@@ -1,7 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 var url = require('url');
-var port = 8081;
+var port = 80;
 
 function hasSuffix(str,suffix) {
  return str.indexOf(suffix,this.length - suffix.length)!==-1;
@@ -56,4 +56,4 @@ for (var dev in ifaces) {
   });
 }
 console.log(iptable);
-console.log('Server running at http://'+iptable['en0:1']+':8081/');
+console.log('Server running at http://'+iptable['en0:1']+':80/');

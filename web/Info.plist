@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>software-package</string>
+					<string>H5A3ED80C</string>
 					<key>url</key>
 					<string>https://github.com/tianmengjie/iOSAppTest/blob/master/web/miaoxiakuan.ipa</string>
 				</dict>
@@ -33,7 +33,7 @@
 				<key>bundle-version</key>
 				<string>6.0</string>
 				<key>kind</key>
-				<string>software</string>
+				<string>H5A3ED80C</string>
 				<key>title</key>
 				<string>秒下款</string>
 			</dict>
