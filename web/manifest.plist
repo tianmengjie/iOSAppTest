@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.105.214.58/miaoxiakuan/v1.0/miaoxiakuan.ipa</string>
+					<string>https://github.com/tianmengjie/iOSAppTest/blob/master/web/miaoxiakuan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
