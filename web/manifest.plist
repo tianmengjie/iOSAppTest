@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.100.1.151:8081/SolarWallet.ipa</string>
+					<string>http://47.105.214.58:80/miaoxiakuan/v1.0/miaoxiakuan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
+				<string>H5A3ED80C</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>5.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
